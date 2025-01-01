@@ -1,0 +1,45 @@
+                Assignment :- 
+
+1. What is the difference between UI and UX? Explain in your own words.
+
+UI (User Interface) refers to the visual elements of a product or website, including buttons, icons, layout, color schemes, and typography. It focuses on the aesthetics and how things look. The goal of UI design is to create an attractive, intuitive interface that users find easy to interact with.
+
+UX (User Experience) is all about how users feel when interacting with the product. It focuses on the overall experience, ease of use, and satisfaction. UX design ensures that users can navigate and interact with the product effortlessly and enjoyably. A well-designed UX solves problems by meeting user needs in a smooth, efficient manner.
+
+2. Who is a frontend developer? Explain the roles and responsibilities in your own words.
+
+A frontend developer is responsible for creating the visual part of a website or application—the parts that users interact with directly. They work with HTML, CSS, and JavaScript to build and design webpages, ensuring they are responsive, functional, and visually appealing across different devices and browsers. Frontend developers collaborate closely with UI/UX designers to implement their designs and make sure the interface works as expected.
+
+Roles and responsibilities:
+
+Building and optimizing web pages using HTML, CSS, and JavaScript.
+Ensuring that the website is responsive and works well on mobile devices.
+Working with APIs to fetch data and display it on the frontend.
+Collaborating with UI/UX designers to implement designs and improve the user experience.
+Debugging and optimizing code for performance and usability.
+
+3. Who is a backend developer? Explain the roles and responsibilities in your own words.
+
+A backend developer works on the server side of web applications. They are responsible for building and maintaining the technologies that power the frontend, ensuring that the server, database, and application logic function properly. Backend developers work with server-side languages like Python, Java, Node.js, and frameworks like Express to handle requests, process data, and store information in databases like MySQL, MongoDB, or PostgreSQL.
+
+Roles and responsibilities:
+
+Designing and developing server-side logic.
+Managing databases and ensuring data is stored securely and efficiently.
+Creating APIs that the frontend can communicate with to fetch or send data.
+Ensuring that the backend is scalable, secure, and performs well under different conditions.
+Handling user authentication, authorization, and data processing.
+
+
+4. Create your own GitHub & LinkedIn accounts. Share the screenshot of both of your accounts and share your profile links of GitHub & LinkedIn in the solution.
+
+The screenshots are attached in the repos .
+
+links :- 
+
+GitHub account link :- https://github.com/Tisha-Coding/
+LinkedIn account link :- https://www.linkedin.com/in/tisha-gupta-3835a8319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
+
+
